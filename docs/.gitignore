@@ -1,5 +1,2 @@
-_site
+*.gem
 .sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
